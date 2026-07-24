@@ -123,7 +123,7 @@ Passionate about building intelligent AI applications using Machine Learning, Ge
 A command-line calendar generator built using Linked List, Stack, Queue, and Array to efficiently manage and display all 12 months and 365+ days. The project features optimized C++ logic that boosts execution speed by 35% and reduces memory usage by 20%.
 
 **Tech Stack:**  
-Python • Advanced Data Structures • Alogorithms • Pandas • NumPy
+C++ • Linked List • Stack • Queue • Arrays • Data Structures
 
 🔗 **GitHub:** 
 https://github.com/SudhanshuShukla07/DSA-Based-Command-Line-Calendar-Generator
@@ -172,7 +172,7 @@ Excel dashboard analyzing customer satisfaction using pivot tables, slicers, KPI
 Python • MS Excel • Pandas 
 
 🔗 **GitHub:**  
-(Add link)
+https://github.com/SudhanshuShukla07/Airline_Satisfication_Trends
 
 </td>
 
@@ -188,7 +188,7 @@ Python • MS Excel • Pandas
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu07&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuShukla07&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
